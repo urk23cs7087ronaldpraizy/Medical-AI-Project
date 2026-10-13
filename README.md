@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MedVision AI — Medical Image Diagnosis Support System
 
 ## 🏥 AI-Based Medical Image Classification and Diagnosis Support System
@@ -191,3 +192,6 @@ This is a **decision-support tool** for healthcare professionals developed as an
 ## 📄 License
 
 This project is developed for educational and research purposes as a Final Year Major Project.
+=======
+# Medical-AI-Project
+>>>>>>> origin/main
